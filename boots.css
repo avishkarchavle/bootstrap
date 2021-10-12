@@ -1,0 +1,11 @@
+    h1 {
+        background-color: yellow;
+        border: 0.8px solid black;
+        border-radius: 12px;
+    }
+    
+    nav {
+        background-color: blanchedalmond;
+        border: 2px solid whitesmoke;
+        border-radius: 1px;
+    }

@@ -1,0 +1,105 @@
+* {
+    background-color: black;
+}
+
+p {
+    font-size: x-large;
+    color: white;
+}
+
+img {
+    image-rendering: auto;
+}
+
+H2 {
+    color: white;
+}
+
+a:hover {
+    color: red;
+}
+
+button:hover {
+    background-color: red;
+}
+
+button {
+    color: white;
+    font-size: x-large;
+    border: none;
+    text-decoration: none;
+    border-radius: 15px;
+    background-color: black;
+    border: white 5px;
+    border-style: white solid;
+    padding: 19px;
+}
+
+h1 {
+    color: whitesmoke;
+    text-decoration: red underline;
+}
+
+h4 {
+    color: white;
+}
+
+#ted {
+    color: red;
+}
+
+header div {
+    width: 900px;
+}
+
+#go {
+    border-width: 1px;
+    border-color: white;
+    border-style: solid;
+    box-sizing: border-box;
+    border-style: ridge;
+    border-radius: 5px;
+    padding: 15px;
+}
+
+#go:hover {
+    background-color: red;
+}
+
+#ev {
+    border: 300px;
+    position: relative;
+    bottom: 140px;
+    left: 500px;
+    display: flex;
+}
+
+#para {
+    padding-left: 300px;
+}
+
+#in {
+    display: inline-block;
+}
+
+
+}
+#p {
+    position: relative;
+    bottom: 40px;
+}
+#b {
+    position: static;
+    left: 98px;
+}
+#s {
+    position: relative;
+    bottom: 100px;
+    left: 18px;
+}
+#one:hover {
+    transition: margin-up 3s;
+}
+#to {
+    position: relative;
+}
